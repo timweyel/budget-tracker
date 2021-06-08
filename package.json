@@ -7,7 +7,8 @@
     "webpack": "webpack --watch",
     "build": "webpack",
     "start:dev": "webpack serve --mode=development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -21,5 +22,13 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timweyel/budget-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timweyel/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/timweyel/budget-tracker#readme"
 }
