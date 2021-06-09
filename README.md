@@ -7,6 +7,8 @@
 
 ## An app that allows you to keep track of your budget.
 
+![](https://github.com/timweyel/budget-tracker/blob/main/budget%20tracker.png)
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
