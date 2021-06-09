@@ -1,6 +1,3 @@
-# budget-tracker
-
-
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # Budget Tracker
